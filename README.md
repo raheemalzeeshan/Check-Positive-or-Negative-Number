@@ -1,6 +1,6 @@
 # Check Positive or Negative Number
 
-![screenshot](images/screenshot.gif)
+![Check Positive or Negative Number](images/screenshot.gif)
 
 ## Welcome! 👋
 
